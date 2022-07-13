@@ -4,11 +4,15 @@ body {
     font-family: 'Inter', sans-serif;
 }
 
-.navbar a {
-    color: #fff;
-}
 
 h1,
-h6 {
+h6,
+.title {
     color: #9390FF;
 }
+
+.btn{
+    border-radius: none;
+    background: #9390FF;
+} 
+
