@@ -1,0 +1,14 @@
+
+body {
+    background: #191765;
+    font-family: 'Inter', sans-serif;
+}
+
+.navbar a {
+    color: #fff;
+}
+
+h1,
+h6 {
+    color: #9390FF;
+}
