@@ -11,8 +11,27 @@ h6,
     color: #9390FF;
 }
 
-.btn{
+.btn,
+.submit {
     border-radius: none;
     background: #9390FF;
 } 
 
+form .name {
+     height: 60px;
+     /* width: 345px; */
+}
+
+/* input {
+    width: 100%;
+} */
+
+form #email {
+    height: 60px;
+    /* width: 700px; */
+}
+    
+form textarea {
+    /* width: 700px; */
+    height: 150px;
+}
