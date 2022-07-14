@@ -1,0 +1,32 @@
+body {
+  background: #191765;
+  font-family: 'Inter', sans-serif;
+}
+
+h1,
+h6,
+.title {
+  color: #9390ff;
+}
+
+.btn,
+.submit {
+  border-radius: none;
+  background: #9390ff;
+}
+
+.contact {
+  margin-top: 17%;
+}
+
+form .name {
+  height: 60px;
+}
+
+form #email {
+  height: 60px;
+}
+
+form textarea {
+  height: 150px;
+}
